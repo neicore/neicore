@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Neema Adam but you can call me neicore
+- 👋 Hi, I’m Neema Adam
 - 🌱 I’m currently learning JS
-- 📫 You can reach me through [telegram](https://t.me/neicore)
-- 💼 Available For Work
 
 <!---
 neicore/neicore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
