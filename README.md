@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Neema Adam
-- 🌱 I’m currently learning JS
+- 👋 Hi, I’m Neema Adam but you can call me neicore
+- 🏗 I build things with Typescript
 
 <!---
 neicore/neicore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
